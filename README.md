@@ -38,4 +38,4 @@ Neste perfil, publico estudos, práticas e projetos relacionados à minha transi
 Nos meus estudos em Ciência da Computação, venho desenvolvendo projetos e aprofundando conhecimentos que conectam fundamentos técnicos, Governança de Dados e segurança no uso de IA para obtenção e consulta de dados por meio de **NL2SQL**, com foco em políticas de controle, auditoria e prevenção de ações indevidas em bancos relacionais.
 
 ## Contato
-- LinkedIn: [linkedin.com/in/willfsjr](https://www.linkedin.com/in/willfsjr)
+- LinkedIn: [linkedin.com/in/willfsjr](https://linkedin.com/in/willfsjr)
