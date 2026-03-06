@@ -1,38 +1,34 @@
-# 👋 Olá, eu sou o Willian Ferreira
+# Olá, eu sou o Willian Ferreira
 
-Sou **Administrador de Redes** com experiência em infraestrutura de TI, virtualização e segurança da informação.  
-Atualmente, estou **iniciando minha jornada em Platform Engineering** pela [Alura](https://www.alura.com.br/), com o objetivo de integrar práticas de **automação, Cloud e DevOps** em ambientes corporativos complexos.
+Sou profissional de TI com experiência em infraestrutura, virtualização, redes e segurança da informação. Atualmente, estou direcionando minha carreira para **Governança de Dados**, buscando unir visão operacional de ambientes corporativos com práticas que aumentem a qualidade, a rastreabilidade e o valor estratégico dos dados.
 
----
+## Áreas de interesse
+- Governança de Dados
+- Qualidade de Dados
+- Metadados e Catálogo de Dados
+- Linhagem de Dados
+- Glossário de Negócio
+- SQL e Python aplicados a dados
+- Cultura Data-Driven
 
-### 🧠 Áreas de Interesse
-- Platform Engineering  
-- DevOps e Cloud Computing  
-- Automação de Infraestrutura (IaC)  
-- Containers (Docker e Kubernetes)  
-- Monitoramento e Observabilidade  
-- CI/CD (GitHub Actions, GitLab CI)  
+## Tecnologias e conhecimentos
+- SQL
+- Python
+- SQLite
+- Git e GitHub
+- Windows Server e Linux
+- Virtualização e infraestrutura de TI
+- Documentação técnica e padronização de ambientes
 
----
+## Objetivo profissional
+Atuar em projetos de Governança de Dados, contribuindo com organização, definição, controle, qualidade e confiabilidade das informações dentro das empresas.
 
-### ⚙️ Tecnologias e Ferramentas
-🖥️ **Infraestrutura:** VMware ESXi, pfSense, Veeam Backup, Synology NAS  
-☁️ **Cloud & DevOps:** Docker, Kubernetes, Terraform (aprendizado em andamento)  
-🧰 **Sistemas Operacionais:** Windows Server, Linux  
-📈 **Monitoramento:** Grafana, Prometheus (aprendizado contínuo)  
-💬 **Linguagens:** Bash, Python, SQL  
-📦 **Controle de Versão:** Git, GitHub  
+## Em desenvolvimento
+Neste perfil, publico estudos, práticas e projetos relacionados à minha transição para a área de dados, com foco em:
+- estruturação de glossário de negócio
+- análise e qualidade de dados
+- documentação de regras
+- rastreabilidade e organização da informação
 
----
-
-### 🎯 Objetivo Profissional
-Desenvolver soluções que unam **resiliência, automação e segurança** na construção de plataformas modernas.  
-Busco atuar em projetos que envolvam **integração contínua, infraestrutura como código e cloud híbrida**, aplicando boas práticas de engenharia e colaboração entre equipes.
-
----
-
-### 📫 Contato
-[LinkedIn](https://www.linkedin.com/in/willfsjr) • [Email Profissional](willianfsjr@gmail.com)
-
----
-> _“Automatizar não é apenas ganhar tempo — é criar confiabilidade.”_
+## Contato
+- LinkedIn: www.linkedin.com/in/willfsjr
